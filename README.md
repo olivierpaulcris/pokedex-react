@@ -6,9 +6,9 @@ Pokedex using React and Pokemon API.
 
 ## Index
 
-
 - [Instalation](#instalation)
 - [Usage](#usage)
+- [Live Preview](#live-preview)
 - [License](#license)
 
 ## Instalation
@@ -24,6 +24,10 @@ npm run dev
 ```
 
 ![pokedex react](./src/assets/screenshot.png)
+
+## Live Preview
+
+https://olivierpaulcris.github.io/
 
 ## License
 
