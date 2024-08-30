@@ -27,7 +27,7 @@ npm run dev
 
 ## Live Preview
 
-https://olivierpaulcris.github.io/
+https://olivierpaulcris.github.io/pokedex-react/
 
 ## License
 
