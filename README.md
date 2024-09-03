@@ -1,5 +1,7 @@
 # pokedex-react
 
+![pokedex react](./src/assets/screenshot.png)
+
 ## Description
 
 Pokedex using React and Pokemon API.
@@ -23,11 +25,9 @@ npm install
 npm run dev
 ```
 
-![pokedex react](./src/assets/screenshot.png)
-
 ## Live Preview
 
-https://olivierpaulcris.github.io/pokedex-react/
+[Pokedex React](https://olivierpaulcris.github.io/pokedex-react/)
 
 ## License
 
