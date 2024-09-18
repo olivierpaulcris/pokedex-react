@@ -4,7 +4,7 @@
 
 ## Description
 
-Pokedex using React and Pokemon API.
+Pokedex using React and Pokemon API, developed in 2024.
 
 ## Index
 
