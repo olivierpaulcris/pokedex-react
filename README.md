@@ -16,7 +16,7 @@ Pokedex using React and Pokemon API, developed in 2024.
 ## Instalation
 
 ```
-npm install
+npm install 
 ```
 
 ## Usage
